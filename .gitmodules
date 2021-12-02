@@ -1,0 +1,6 @@
+[submodule "w11_1a"]
+	path = w11_1a
+	url = https://github.com/40823227/w11_1a
+[submodule "cmsimde"]
+	path = cmsimde
+	url = https://github.com/mdecourse/cmsimde.git
